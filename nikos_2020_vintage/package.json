@@ -2,6 +2,7 @@
   "name": "nikos_2020_vintage",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.nikos2020incvintage.com",
   "dependencies": {
     "@chec/commerce.js": "^2.8.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
