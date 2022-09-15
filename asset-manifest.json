@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c70bdd13.css",
+    "main.css": "/static/css/main.c896be96.css",
     "main.js": "/static/js/main.750e84ec.js",
     "static/media/bg_video_1.mp4": "/static/media/bg_video_1.72d22f4feebda7f06abc.mp4",
     "static/media/photo_3.jpg": "/static/media/photo_3.24e783d7a6de8289d5a6.jpg",
@@ -11,11 +11,11 @@
     "static/media/photo_4.jpg": "/static/media/photo_4.12e06fe8d7f0a07830d0.jpg",
     "static/media/nikos_logo.png": "/static/media/nikos_logo.44e74f0f48eca54c5c25.png",
     "index.html": "/index.html",
-    "main.c70bdd13.css.map": "/static/css/main.c70bdd13.css.map",
+    "main.c896be96.css.map": "/static/css/main.c896be96.css.map",
     "main.750e84ec.js.map": "/static/js/main.750e84ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.c70bdd13.css",
+    "static/css/main.c896be96.css",
     "static/js/main.750e84ec.js"
   ]
 }
